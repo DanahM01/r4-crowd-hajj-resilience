@@ -1,0 +1,8 @@
+scenario,availability_mean,availability_ci95,delivery_ratio_mean,mae_disruption_mean,mae_disruption_ci95,min_q_mean,seconds_below_mean,seconds_below_ci95
+baseline,1.0,0.0,1.0,0.1593,0.0011,0.7444,21.1667,1.5383
+sensor_failure,0.8344,0.0,0.8333,0.1596,0.0011,0.5944,298.2,0.1808
+packet_loss_10,0.9992,0.0002,0.9019,0.1592,0.0013,0.7167,22.8,1.6996
+packet_loss_30,0.9731,0.0016,0.7005,0.1592,0.0013,0.5889,63.9333,2.6366
+packet_loss_50,0.8773,0.0035,0.5004,0.1603,0.0017,0.3944,172.3667,4.1215
+delay_2,1.0,0.0,1.0,0.1593,0.0011,0.75,21.0667,1.5316
+delay_5,0.0067,0.0,1.0,0.1593,0.0146,0.0,298.2,0.2279

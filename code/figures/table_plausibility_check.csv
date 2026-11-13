@@ -1,0 +1,7 @@
+zone,width_m,mean_density_p_m2,max_density_p_m2,speed_m_s,flow_p_per_m_s,below_4_p_m2_limit
+zone 1,20.0,1.82,1.93,0.493,0.898,True
+zone 2,20.0,1.82,1.89,0.493,0.898,True
+zone 3,20.0,1.82,1.88,0.493,0.898,True
+zone 4,19.0,2.01,2.07,0.47,0.944,True
+zone 5,18.0,2.26,2.35,0.439,0.995,True
+zone 6,17.0,2.67,2.85,0.393,1.05,True
