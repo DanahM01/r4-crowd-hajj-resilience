@@ -5,7 +5,7 @@ Team: Leena Alshehri, Danah Alsaif, Layan Alshehri, Reef Albadrani.
 
 This repository holds everything needed to reproduce the study: the simulation code, the raw data it produced, the figures and tables used in the paper, and the interactive demo shown at the Ofoq exhibition.
 
-**Live demo:** https://r4-crowd-hajj-resilience.vercel.app
+**Live demo:** https://r4-crowd-hajj-resilience-demo.vercel.app
 
 ## Contents
 
